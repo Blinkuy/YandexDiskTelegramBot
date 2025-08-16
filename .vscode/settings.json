@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap":{
+        "python": "D:\\Python\\Bots\\YandexDiskTelegramBot\\venv\\Scripts\\python.exe $fullFileName",
+    }
+}
